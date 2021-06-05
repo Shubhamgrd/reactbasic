@@ -1,0 +1,19 @@
+{
+    "docroot": "testgroup",
+    "platform": "myplatform",
+    "domains": [
+        "test.com",
+        "www.test.com"
+    ],
+    "vanity": [
+        "test.net",
+        "test.in"
+    ],
+    "testgroup": [
+        "common",
+        "sitemap",
+        "gdpr"
+    ],
+    "privacypolicy": "/privacy",
+    "Productlisting": "/product"
+}

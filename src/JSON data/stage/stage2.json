@@ -1,0 +1,19 @@
+{
+    "docroot": "stage2group",
+    "platform": "myplatform",
+    "domains": [
+        "stage2.com",
+        "www.stage2.com"
+    ],
+    "vanity": [
+        "stage2.net",
+        "stage2.in"
+    ],
+    "stage2group": [
+        "common",
+        "sitemap",
+        "gdpr"
+    ],
+    "privacypolicy": "/privacy",
+    "Productlisting": "/product"
+}
