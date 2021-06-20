@@ -2,6 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import React, { useState, useEffect } from "react";
 import Header from "./Header/Header";
 import Body from "./Body/Body";
+import BodyChild2 from "./BodyChild/BodyChild2";
 import Form from "./Body/Form";
 import Footer from "./Footer/Footer";
 
@@ -51,6 +52,7 @@ function App() {
     <div className="App">
       <Header title="qwertyuyhfd" />
       <Form addForm={addForm} />
+      <BodyChild2 />
       <Body todos={todos} onDelete={onDelete} />
       <Footer exist={false} />
     </div>
